@@ -4,7 +4,11 @@ body{
     background-color: rgb(208, 226, 128);
 }
 
+h2{
+   font-size:3em; 
+}
+
 p{
     color: rgb(70, 6, 6);
-    font-size: 2em;
+    font-size: 1.5em;
 }
